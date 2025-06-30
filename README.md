@@ -3,11 +3,11 @@ We developed an improved UNet tailored for the [**PI-CAI challenge**](https://pi
 
 
 ## Multimodal MRI-Based Prostate Lesion Segmentation
-![Two typical samples](assets/background.pdf)
+![Two typical samples](assets/background.png)
 
 
 ## Overview of Our Framework
-![Overview of our Framework](assets/framework.pdf)
+![Overview of our Framework](assets/framework.png)
 
 
 
