@@ -37,6 +37,7 @@ Specifically, we extract a foreground image patch from the original image using 
 
 **4. Making Dataset** (`./dataset_process/make_dataset.py`).  We randomly split the dataset into training and testing sets with a 4:1 ratio.  The final dataset structure is organized as follows, where each case contains four NIfTI files:
 
+```
 dataset/
 ├── train/
 │ ├── case1/
@@ -58,7 +59,7 @@ dataset/
 │ │ ├── ...
 │ │ └── ...
 │ └── ...
-
+```
 
 # Model Training and Testing
 We recommend creating and activating a virtual environment before running the training and testing scripts.
